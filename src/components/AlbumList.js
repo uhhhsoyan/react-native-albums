@@ -1,3 +1,4 @@
+// Components AlbumList
 import React, { Component } from 'react';
 import { View } from 'react-native';
 import axios from 'axios';
