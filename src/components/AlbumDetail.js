@@ -1,3 +1,4 @@
+// Component AlbumDetail
 import React from 'react';
 import { Text, View, Image } from 'react-native';
 import Card from './Card';
